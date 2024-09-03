@@ -166,7 +166,3 @@ Durante el curso, utilizaremos diversos materiales, puedes encontrarlos en la se
 
 
 <br>
-
-## Custionario Inicial
-
-   - [Curso 2023-24](./mas-cosas/07-trabajos_2023-24.html){target="_blank"}
