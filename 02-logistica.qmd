@@ -147,6 +147,9 @@ pkgs <- pak::pkg_list()
 
 -   [**RStudio Cloud Project**](https://rstudio.cloud/content/4385030){target="_blank"}: En otros cursos este recurso nos resulto muy útil, pero ahora la versión gratuita tiene límite de tiempo así que creo que no lo usaré, pero por si acaso aquí está.
 
+- [Cuestionario incial](./mas-cosas/cuestionario-inicial.html){target="_blank"}
+
+
 <br><br>
 
 ## Entrega de trabajos
@@ -164,3 +167,6 @@ Durante el curso, utilizaremos diversos materiales, puedes encontrarlos en la se
 
 <br>
 
+## Custionario Inicial
+
+   - [Curso 2023-24](./mas-cosas/07-trabajos_2023-24.html){target="_blank"}

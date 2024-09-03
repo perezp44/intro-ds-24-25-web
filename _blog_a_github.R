@@ -27,11 +27,11 @@ usethis::use_github() #- funciono
 #- 4) git push -u origin master
 
 
-#- Subiendo a Github -------------------------
+#- Subiendo a Github -------------------------  (main ;antes era master)
 credentials::set_github_pat()
 git add -A
 git commit --all --message "todo a Github"
-git push -u origin master
+git push -u origin main
 
 
 
