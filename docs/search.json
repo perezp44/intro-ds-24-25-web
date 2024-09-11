@@ -1,54 +1,5 @@
 [
   {
-    "objectID": "03-materiales.html",
-    "href": "03-materiales.html",
-    "title": "Programación y manejo de datos con R (2024-25)",
-    "section": "",
-    "text": "Materiales de clase\n\n\n\nEn el curso usaremos diversos tipos de materiales, los principales son:\n\nSlides : las transparencias (o slides) que usaré durante las clases.\nTutoriales : digamos que son los apuntes/libro oficial del curso. Algunas de las tareas a hacer en casa consistirán en leer secciones de estos tutoriales.\nGuiones de clase/Ejemplos/Ejercicios : cada sesión (o grupo de sesiones) del curso tendrá un guión asociado con los materiales a usar en esa clase. Los iré colgando conforme avancen las clases."
-  },
-  {
-    "objectID": "03-materiales.html#slides",
-    "href": "03-materiales.html#slides",
-    "title": "Programación y manejo de datos con R (2024-25)",
-    "section": "Slides",
-    "text": "Slides\n\nSlides-00: Presentación\nSlides-01: Tema 1\nSlides-02: Primeros pasos\nSlides-03: R base\nSlides-04: Importar y exportar datos\nSlides-05: Data munging\nSlides-06(A): ggplot2 (primeras ideas)\nSlides-06(B): ggplot2 (más elementos)\nSlides-06(C): ggplot2 (distintos tipos de gráficos)\nSlides-07(A): Rmarkdown (primeras ideas, bye bye)\nSlides-07(B): Intro a Quarto\nSlides-07(C): Webs con Quarto"
-  },
-  {
-    "objectID": "03-materiales.html#tutoriales",
-    "href": "03-materiales.html#tutoriales",
-    "title": "Programación y manejo de datos con R (2024-25)",
-    "section": "Tutoriales",
-    "text": "Tutoriales\n\nPrefacio\nTutorial 01: Introducción\nTutorial 02: Workflow\nTutorial 03: R base\nTutorial 04: Cargar datos\nTutorial 05: Data munging\nTutorial 06: ggplot2\nTutorial 07: Rmarkdown\nTutorial 08: Tablas con Rmarkdown\nTutorial 09: Introducción a GIS con R\nTutorial 10: Un poco de EDA y modelos"
-  },
-  {
-    "objectID": "03-materiales.html#guiones-de-clase",
-    "href": "03-materiales.html#guiones-de-clase",
-    "title": "Programación y manejo de datos con R (2024-25)",
-    "section": "Guiones de clase",
-    "text": "Guiones de clase\n\nGuión 01"
-  },
-  {
-    "objectID": "03-materiales.html#plantillas-para-los-trabajos",
-    "href": "03-materiales.html#plantillas-para-los-trabajos",
-    "title": "Programación y manejo de datos con R (2024-25)",
-    "section": "Plantillas para los trabajos",
-    "text": "Plantillas para los trabajos\n(Colgaré las plantillas cuando estéis preparados para iniciar los trabajos)"
-  },
-  {
-    "objectID": "03-materiales.html#bibliografía",
-    "href": "03-materiales.html#bibliografía",
-    "title": "Programación y manejo de datos con R (2024-25)",
-    "section": "Bibliografía",
-    "text": "Bibliografía\n\nHadley Wickham, Mine Çetinkaya-Rundel, and Garrett Grolemund (2023): R for Data Science (2e). https://r4ds.hadley.nz/\nGrolemund, G., Wickham, H. (2019): R para Ciencia de Datos. https://es.r4ds.hadley.nz/\nGrolemund, G., Wickham, H. (2016): R for Data Science, OReilly. https://r4ds.had.co.nz/\nPeng, R. D. (2016): Exploratory Data Analysis with R. Lean Publishing. https://bookdown.org/rdpeng/exdata/\nJames, G., Witten, E., Hastie T. y Tibshirani, R. (2015): An Introduction to Statistical Learning with applications in R. http://www-bcf.usc.edu/~gareth/ISL/\nRafael A. Irizarry: Introduction to Data Science (Data Analysis and Prediction Algorithms with R). http://rafalab.dfci.harvard.edu/dsbook/\nAlbert Rapp, Yet Again: R + Data Science, https://yards.albert-rapp.de/\nJohn P. Helveston: Curso Intro to Programming for Analytics. https://p4a.seas.gwu.edu/2023-Spring/\nChester Ismay & Albert Y. Kim: Statistical Inference via Data Science (A ModernDive into R and the Tidyverse). https://moderndive.com/index.html\nCurso Data Science in a box. https://datasciencebox.org/\nB. S. Baumer, D. T. Kaplan, and N. J. Horton: Modern Data Science with R. https://mdsr-book.github.io/mdsr3e/"
-  },
-  {
-    "objectID": "03-materiales.html#más-bibliografíarecursos",
-    "href": "03-materiales.html#más-bibliografíarecursos",
-    "title": "Programación y manejo de datos con R (2024-25)",
-    "section": "Más bibliografía/Recursos",
-    "text": "Más bibliografía/Recursos\nLa comunidad R es muy dinámica y en general comparte sus materiales, lo que hace que los recursos para aprender R sean, exagerando un poco, casi infinitos. Es imposible abarcarlo todo, es una avalancha continúa de nuevas paquetes, análisis, cursos, libros, etc….\nRecursos para buscar inspiración para tus proyectos\n\nR-weekly: cada semana envían un archivo con los mejores análisis hechos con R esa semana. Tienes que apuntarte aquí.\nR-bloggers: Un agregador de blogs relacionados con R.\nKaggle: plataforma para aprender ML. Encontrarás datos y análisis de estos.\nTidy Tuesday: cada semana lanzan una competición de visualización con unos datos.\n\n\nMás recursos\n\nQuick-R\nr-statistics.co\nModern Drive: un libro, en realidad un bookdown, que me gusta.\nswirl: swirl teaches you R programming and data science interactively, at your own pace, and right in the R console!\nR views: Un blog de la comunidad R editado por RStudio. Cada mes saca un post con los mejores 40 paquetes de ese mes; por ejemplo, aquí tienes el de julio de 2020.\nStack Overflow: si al final acabas utilizando R para tus análisis, seguramente acabarás utilizando Stack Overflow. Es una comunidad de programadores, en la que muchas veces resolverás las dudas que te puedan surgir en tu aprendizaje sobre R.\n\n\nPropuestas para aprender R\n\nHow to get started with Data Science using R\nTutorials for learning R\n\n\nNecesito un paquete para …\n\nListado sencillo\nListado completo de CRAN agrupado por temática\nAWESOME list de pkgs\nListado de pkgs agrupados por fase del análisis\n\n\nAwesome list\nMucha gente hace sus propias listas de recursos R, aquí tienes algunas:\n\nAwesome R Learning Resources\nLearning R resources\nwww.learnr4free.com"
-  },
-  {
     "objectID": "mas-cosas/07-trabajos_2019-20.html#trabajos-en-equipo",
     "href": "mas-cosas/07-trabajos_2019-20.html#trabajos-en-equipo",
     "title": "Curso 2019-2020",
@@ -159,6 +110,62 @@
     "title": "Programación y manejo de datos con R (2024-25)",
     "section": "Materiales de clase",
     "text": "Materiales de clase\nDurante el curso, utilizaremos diversos materiales, puedes encontrarlos en la sección Materiales."
+  },
+  {
+    "objectID": "03-materiales.html",
+    "href": "03-materiales.html",
+    "title": "Programación y manejo de datos con R (2024-25)",
+    "section": "",
+    "text": "Materiales de clase\n\n\n\nEn el curso usaremos diversos tipos de materiales, los principales son:\n\nSlides : las transparencias (o slides) que usaré durante las clases.\nTutoriales : digamos que son los apuntes/libro oficial del curso. Algunas de las tareas a hacer en casa consistirán en leer secciones de estos tutoriales.\nGuiones de clase/Ejemplos/Ejercicios : cada sesión (o grupo de sesiones) del curso tendrá un guión asociado con los materiales a usar en esa clase. Los iré colgando conforme avancen las clases."
+  },
+  {
+    "objectID": "03-materiales.html#slides",
+    "href": "03-materiales.html#slides",
+    "title": "Programación y manejo de datos con R (2024-25)",
+    "section": "Slides",
+    "text": "Slides\n\nSlides-00: Presentación\nSlides-01: Tema 1\nSlides-02: Primeros pasos\nSlides-03: R base\nSlides-04: Importar y exportar datos\nSlides-05: Data munging\nSlides-06(A): ggplot2 (primeras ideas)\nSlides-06(B): ggplot2 (más elementos)\nSlides-06(C): ggplot2 (distintos tipos de gráficos)\nSlides-07(A): Rmarkdown (primeras ideas, bye bye)\nSlides-07(B): Intro a Quarto\nSlides-07(C): Webs con Quarto"
+  },
+  {
+    "objectID": "03-materiales.html#tutoriales",
+    "href": "03-materiales.html#tutoriales",
+    "title": "Programación y manejo de datos con R (2024-25)",
+    "section": "Tutoriales",
+    "text": "Tutoriales\n\nPrefacio\nTutorial 01: Introducción\nTutorial 02: Workflow\nTutorial 03: R base\nTutorial 04: Cargar datos\nTutorial 05: Data munging\nTutorial 06: ggplot2\nTutorial 07: Rmarkdown\nTutorial 08: Tablas con Rmarkdown\nTutorial 09: Introducción a GIS con R\nTutorial 10: Un poco de EDA y modelos"
+  },
+  {
+    "objectID": "03-materiales.html#guiones-de-clase",
+    "href": "03-materiales.html#guiones-de-clase",
+    "title": "Programación y manejo de datos con R (2024-25)",
+    "section": "Guiones de clase",
+    "text": "Guiones de clase\n\nGuión 01"
+  },
+  {
+    "objectID": "03-materiales.html#plantillas-para-los-trabajos",
+    "href": "03-materiales.html#plantillas-para-los-trabajos",
+    "title": "Programación y manejo de datos con R (2024-25)",
+    "section": "Plantillas para los trabajos",
+    "text": "Plantillas para los trabajos\n(Colgaré las plantillas cuando estéis preparados para iniciar los trabajos)"
+  },
+  {
+    "objectID": "03-materiales.html#bibliografía",
+    "href": "03-materiales.html#bibliografía",
+    "title": "Programación y manejo de datos con R (2024-25)",
+    "section": "Bibliografía",
+    "text": "Bibliografía\n\nHadley Wickham, Mine Çetinkaya-Rundel, and Garrett Grolemund (2023): R for Data Science (2e). https://r4ds.hadley.nz/\nGrolemund, G., Wickham, H. (2019): R para Ciencia de Datos. https://es.r4ds.hadley.nz/\nGrolemund, G., Wickham, H. (2016): R for Data Science, OReilly. https://r4ds.had.co.nz/\nPeng, R. D. (2016): Exploratory Data Analysis with R. Lean Publishing. https://bookdown.org/rdpeng/exdata/\nJames, G., Witten, E., Hastie T. y Tibshirani, R. (2015): An Introduction to Statistical Learning with applications in R. http://www-bcf.usc.edu/~gareth/ISL/\nRafael A. Irizarry: Introduction to Data Science (Data Analysis and Prediction Algorithms with R). http://rafalab.dfci.harvard.edu/dsbook/\nAlbert Rapp, Yet Again: R + Data Science, https://yards.albert-rapp.de/\nJohn P. Helveston: Curso Intro to Programming for Analytics. https://p4a.seas.gwu.edu/2023-Spring/\nChester Ismay & Albert Y. Kim: Statistical Inference via Data Science (A ModernDive into R and the Tidyverse). https://moderndive.com/index.html\nCurso Data Science in a box. https://datasciencebox.org/\nB. S. Baumer, D. T. Kaplan, and N. J. Horton: Modern Data Science with R. https://mdsr-book.github.io/mdsr3e/"
+  },
+  {
+    "objectID": "03-materiales.html#más-bibliografíarecursos",
+    "href": "03-materiales.html#más-bibliografíarecursos",
+    "title": "Programación y manejo de datos con R (2024-25)",
+    "section": "Más bibliografía/Recursos",
+    "text": "Más bibliografía/Recursos\nLa comunidad R es muy dinámica y en general comparte sus materiales, lo que hace que los recursos para aprender R sean, exagerando un poco, casi infinitos. Es imposible abarcarlo todo, es una avalancha continúa de nuevas paquetes, análisis, cursos, libros, etc….\nRecursos para buscar inspiración para tus proyectos\n\nR-weekly: cada semana envían un archivo con los mejores análisis hechos con R esa semana. Tienes que apuntarte aquí.\nR-bloggers: Un agregador de blogs relacionados con R.\nKaggle: plataforma para aprender ML. Encontrarás datos y análisis de estos.\nTidy Tuesday: cada semana lanzan una competición de visualización con unos datos.\n\n\nMás recursos\n\nQuick-R\nr-statistics.co\nModern Drive: un libro, en realidad un bookdown, que me gusta.\nswirl: swirl teaches you R programming and data science interactively, at your own pace, and right in the R console!\nR views: Un blog de la comunidad R editado por RStudio. Cada mes saca un post con los mejores 40 paquetes de ese mes; por ejemplo, aquí tienes el de julio de 2020.\nStack Overflow: si al final acabas utilizando R para tus análisis, seguramente acabarás utilizando Stack Overflow. Es una comunidad de programadores, en la que muchas veces resolverás las dudas que te puedan surgir en tu aprendizaje sobre R.\n\n\nPropuestas para aprender R\n\nHow to get started with Data Science using R\nTutorials for learning R\n\n\nNecesito un paquete para …\n\nListado sencillo\nListado completo de CRAN agrupado por temática\nAWESOME list de pkgs\nListado de pkgs agrupados por fase del análisis\n\n\nAwesome list\nMucha gente hace sus propias listas de recursos R, aquí tienes algunas:\n\nAwesome R Learning Resources\nLearning R resources\nwww.learnr4free.com"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Bienvenidos al curso!!!",
+    "section": "",
+    "text": "Bienvenidos a la web de la asignatura Programación y manejo de datos en la era del Big Data para el curso académico 2024-25\nLa asignatura es una introducción a la ciencia de datos con R: pretende iniciar a los estudiantes en este campo presentando una panorámica de tópicos, y exponiéndoles, quizás por primera vez en la carrera, a la programación. Creo que os puede resultar interesante y útil, e incluso llegar a gustaros, pero tenéis que saber que hay que trabajar todas las semanas y que necesitaré vuestra ayuda para que las clases funcionen y conseguir aprender lo máximo posible sobre R y Ciencia de Datos.\nEn las distintas secciones de la web encontrarás información sobre el curso. Por ejemplo:\n\nPara obtener más información acerca del desarrollo del curso visita la sección Guía del curso.\nLos materiales están en Materiales.\nPuedes ver los trabajos hechos por estudiantes de ediciones anteriores en Trabajos.\n\nPara decidir si te interesa seguir en la asignatura o elegir otra optativa puedes leer la Guía del curso.\n\n\n\n\n\n\n  INSISTO,     lee la Guía del curso !!!"
   },
   {
     "objectID": "01-guia-del-curso.html",
