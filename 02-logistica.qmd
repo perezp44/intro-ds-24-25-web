@@ -88,7 +88,7 @@ En el curso utilizaremos ordenadores y algunos programas y servicios informátic
 
 install.packages("pak")
 
-mys_pkgs <- c("tidyverse", "curl", "eurostat", "here", "palmerpenguins", "quantmod", "rio", "gt", "DT", "gapminder", "markdown")
+mys_pkgs <- c("tidyverse", "curl", "eurostat", "here", "palmerpenguins", "quantmod", "rio", "gt", "DT", "gapminder", "markdown", "pandoc")
 pak::pkg_install(mys_pkgs)   
 
 mys_pkgs <- c("usethis", "janitor", "ggthemes", "gganimate", "perezp44/pjpv.curso.R.2022", "sjPlot")
@@ -145,7 +145,7 @@ pkgs <- pak::pkg_list()
 
 -   [**Aula Virtual de la asignatura**](https://aulavirtual.uv.es/course/view.php?id=84668){target="_blank"}: como Aula Virtual es el sitio oficial de la asignatura colgaré allí los anuncios de tipo "oficial". También colgaré en Aula Virtual los detalles sobre la evaluación. 
 
--   [**RStudio Cloud Project**](https://rstudio.cloud/content/4385030){target="_blank"}: En otros cursos este recurso nos resulto muy útil, pero ahora la versión gratuita tiene límite de tiempo así que creo que no lo usaré, pero por si acaso aquí está.
+-   [**RStudio Cloud Project**](https://posit.cloud/content/8720658){target="_blank"}: En otros cursos este recurso nos resulto muy útil, pero ahora la versión gratuita tiene límite de tiempo así que creo que no lo usaré, pero por si acaso aquí está.
 
 - [Cuestionario incial](./mas-cosas/cuestionario-inicial.html){target="_blank"}
 
