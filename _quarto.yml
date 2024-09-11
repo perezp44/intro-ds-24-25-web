@@ -3,6 +3,7 @@ project:
   output-dir: docs
   resources:
     - "mas-cosas/cuestionario-inicial.Rmd" 
+    - "/guiones/"
   preview:
     port: 4444
     browser: true
