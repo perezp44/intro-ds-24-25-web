@@ -69,16 +69,21 @@ Como parte de la evaluación continua, los 25 estudiantes del curso 2024-25 elab
 - **Nadia Barrantes** y **Mireia Nicolau** presentaron el trabajo [Los Simpsons](https://nadinka1.github.io/trabajo_BigData/.){target="_blank"}. El repo del trabajo está [aquí](https://github.com/nadinka1/trabajo_BigData){target="_blank"}.
 
 
-
 <br>
 
 - **Emma Roselló Ortiz** y **Laura Martí Molins** presentaron el trabajo [La evolución del IPC en España](https://lauramarti7.github.io/trabajo_BigData/){target="_blank"}. El repo del trabajo está [aquí](https://github.com/lauramarti7/trabajo_BigData){target="_blank"}.
 
+<br>
 
+- **Joan Puigcerver** y **Carles Soler** presentaron el trabajo [Análisis sectorial agrícola en España](https://carlesoler8.github.io/trabajo_BigData/){target="_blank"}. El repo del trabajo está [aquí](https://github.com/Carlesoler8/trabajo_BigData){target="_blank"}.
 
 <br>
 
------------------------------------
+- **Marius Bulat** presentó el trabajo [Análisis de diversos riesgos sobre el territorio de la Comunidad Valenciana](https://marbul33.github.io/trabajo_BigData/){target="_blank"}. El repo del trabajo está [aquí](https://github.com/marbul33/trabajo_BigData){target="_blank"}.
+
+<br>
+
+
 
 ## Cursos anteriores
 
